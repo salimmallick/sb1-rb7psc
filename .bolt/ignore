@@ -1,0 +1,18 @@
+# Disabled Categories
+src/pages/overview/
+src/components/overview/
+src/pages/analytics/
+src/components/analytics/
+src/pages/security/
+src/pages/costs/
+src/pages/alerts/
+src/components/echo-ai/
+
+# Observability Category
+src/pages/observability/
+src/components/observability/
+src/pages/observability/infrastructure/
+src/pages/observability/apm/
+src/pages/observability/database/
+src/pages/observability/logs/
+src/pages/observability/overview.tsx
