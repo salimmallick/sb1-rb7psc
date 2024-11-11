@@ -174,9 +174,7 @@ export const router = createBrowserRouter([
         children: [
           {
             path: '/learn',
-            element: (
-              <Navigate to="/learn/product-guide/platform-overview" replace />
-            ),
+            element: <Navigate to="/learn/product-guide/platform-overview" replace />,
           },
           {
             path: '/learn/product-guide/platform-overview',
